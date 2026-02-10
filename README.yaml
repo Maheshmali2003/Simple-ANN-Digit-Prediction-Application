@@ -24,3 +24,24 @@ This project implements a simple Artificial Neural Network (ANN) to recognize ha
 ```bash
 pip install -r requirements.txt
 python ann_digit_prediction.py
+
+
+---
+
+📊 Output
+
+Displays digit image
+
+Shows predicted number (0–9)
+
+👨‍💻 Author
+
+Mahesh Kailas Mali
+## 🔹 STEP 6: Initialize Git Repository (VS Code Terminal)
+
+Open terminal in project folder and run:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit - ANN digit prediction app"
